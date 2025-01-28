@@ -4,9 +4,7 @@ sow most of the soc analyst teams , whene they monitor there procces or invastig
 sow that why i creat this script that will gonna help the investigation of a malicious file or app that a user have been installed in tha linux machine based in debian .
 ## instalation 
 git clone 
-## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Features](#features)
-4. [Contributing](#contributing)
-5. [License](#license)
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/repository-name.git
