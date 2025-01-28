@@ -1,5 +1,9 @@
 # script for searching in apt log : 
 Hey everyone! I hope you're all doing well. Today, I've got another script that can help you investigate any malicious activity that your user might have done or is planning to do. Most of the SOC analyst teams have to deal with files that have thousands of lines of information, making investigations and monitoring really tough. That's why I created this script to make it easier to investigate malicious files or apps that a user has installed on a Debian-based Linux machine.
+### exemple
+so let's said that you have a list of a forbidden tools that a normel user should not have , so then all you have to do it's to run the script 
+  ./alertin.sh /path/to/forbidden /var/log/apt (number of line that you want to see below the word)
+  
 ## instalation
 1. Clone the repository:
    ```bash
