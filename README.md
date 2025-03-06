@@ -7,5 +7,4 @@ Okay, let's say you've got a list of tools that regular users shouldn't have. To
 ## instalation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/badrchoukri/apt_searcher_log.git
-```
+   git clone https://github.com/badrchoukri/apt_searcher_log.git```
